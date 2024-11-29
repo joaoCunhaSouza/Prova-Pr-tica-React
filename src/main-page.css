@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+
+.transaction-list{
+
+    height: 750px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+justify-content: center;
+    
+
+}
+
+
+
+.maps-container {
+    margin-top: 20px; 
+    text-align: center;
+}
+
+.maps-container iframe {
+    width: 85vw; 
+    height: 550px; 
+    border: none; 
+}
+
+.logo-h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333; 
+    margin-bottom: 8px;
+  }
+  
+  .descricao-h1 {
+    font-size: 16px;
+    color: #666; 
+    margin-bottom: 12px;
+  }
+  
+  .date {
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .texto-h1 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #d4af37; 
+  }
+
+.oi{
+    padding: 35px 165px;
+
+
+}
+.more-link {
+    color: black;
+    background-color: #a1848f;
+    padding: 20px 80px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 35px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-family: 'Inter';
+    font-weight: 500;
+}
+
+
+.main{
+ 
+    height: 2000px;
+}
+.background {
+    background-image: white;
+    background-size: cover;      /* Ensures the image covers the container */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 100%;
+    height: 750px; /* Alterado para altura responsiva */
+    margin: 0;
+    color: #4D4D4D;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+}
+
+
+p {
+    font-weight: 600;
+    font-size: 18px;
+   
+    line-height: 28px;
+    color: black;
+}
+
+.font {
+
+    font-size: 60px;
+    margin: 0;
+
+}
+
+strong {
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    font-size: 60px;
+    font-weight: 750;
+
+}
+
+.content {
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Inter", sans-serif; 
+    
+    font-weight: 600;
+    
+}
+
+.align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 15px;
+    margin-right: 45px;
+   
+   
+}
+
+.logo-png {
+    width: 481px;
+    height: 332px;
+
+}
+
+.clients{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.our-clients{
+    text-align: center;
+    padding: 25px;
+    margin: 10px;
+    color: #4D4D4D;
+    line-height: 10px;
+}
+
+.clients img {
+    width: 75px;
+}
+
+.manage{
+    text-align: center;
+    width: 580px;
+    color: #4D4D4D;
+
+    
+
+}
+.manage h1{
+    margin: 20px;
+    padding: 0;
+}
+
+
+
+.aling{
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+
+
+}
+
+.container-footer{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+   color: white;
+   padding: 65px;
+   
+  
+}
+
+.alinha-left{
+    margin-left: 100px;
+}
+
+
+.alinhamento{
+display: flex;
+
+
+}
+.alinha-essa-merda{
+   margin-right: 150px;
+   padding: 0;
+}
+
+.container_circulo{
+
+    display: flex;
+    align-items: center;
+
+}
+
+.circulo{
+background-color: #d59a42;
+border-radius: 50%;
+width: 50px;
+height: 50px;
+}
+
+.traco{
+    width: 2px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    margin: 17px;
+}
+
+.contacts{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 5px;
+}
+
+.numero{
+    margin: 0;
+    padding: 0;
+}
+
+.margem{
+    margin-bottom: 0;
+
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin-top: 40px;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+
+
